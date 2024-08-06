@@ -1,0 +1,13 @@
+.preview-container{
+    display: flex;
+}
+
+.preview-button{
+    display:flex;
+    align-items: center;
+    width: 4.5rem;
+}
+
+.preview-button_Icon{
+    padding: 0 0.25rem 0 0;
+}

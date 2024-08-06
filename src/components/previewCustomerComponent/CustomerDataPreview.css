@@ -1,0 +1,13 @@
+.customer-data-preview {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  }
+  
+  .customer-data-preview p {
+    margin: 0.5em 0;
+  }
+  
+  .customer-data-preview strong {
+    font-weight: bold;
+  }
+  

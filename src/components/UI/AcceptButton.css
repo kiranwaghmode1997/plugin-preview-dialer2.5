@@ -1,0 +1,14 @@
+.accept-container{
+    display: flex;
+    margin: 0 10px 0 1px;
+}
+
+.accept-button{
+    display:flex;
+    align-items: center;
+    width: 4.5rem;
+}
+
+.accept-button_Icon{
+    padding: 0 0.5rem 0 0;
+}
